@@ -10,4 +10,5 @@
   - layout component created, with navigation links, & an index page
   - persisted user session with custom document page
   - gave index page initial props, persisted user data from client, passed props to Layout to display user data
+  - added user data to profile & login pages, created logout with cookie clear
   - 
