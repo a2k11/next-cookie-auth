@@ -9,4 +9,5 @@
   - error handling in login form submission, hidden div to display errors
   - layout component created, with navigation links, & an index page
   - persisted user session with custom document page
+  - gave index page initial props, persisted user data from client, passed props to Layout to display user data
   - 
