@@ -12,4 +12,5 @@
   - gave index page initial props, persisted user data from client, passed props to Layout to display user data
   - added user data to profile & login pages, created logout with cookie clear
   - created user auth check in authInitialProps, redirection path to login
-  - 
+  - deploying app to heroku : 
+  
